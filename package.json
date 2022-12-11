@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "truffle-assertions": "^0.9.2",
+    "truffle-expect": "^0.0.9"
+  }
+}
